@@ -2,8 +2,7 @@
 
 ## Contact
 If you want to contact me, you can : 
-- Email me at [contact@theskyblockman.me](mailto://contact@theskyblockman.me)
-- Send me a message on Discord [here](https://discord.com/channels/@me/637915800338038795) (theskyblockman)
+- Email me at h.elomri[at]proton[dot]me
 - Mention me on Github
 
 Note: I am 🇫🇷 so I may be sleeping when you try to contact me, in this case I would respond to you the next morning
@@ -14,13 +13,12 @@ I can write code in about 15 languages, but I am mainly good at writing in those
 - Java/Kotlin
 - Python
 - HTML, CSS and JS/Node JS
-- C#
 
 # Projects
-I made/contribued to some projects but here are the current state of my "real" repositories: (updated on the 22 of April 2023)
-- [Life Chest](https://github.com/theskyblockman/life-chest) 100% finished.
-- [Instructer](https://github.com/theskyblockman/Instructer) 100% finished.
+I made/contribued to some projects but here are the current state of my "real" repositories: (updated on the 30th of November 2024)
+- [Life Chest](https://github.com/helomri/life-chest-compose) 100% finished / Rewritten in native Android with Compose.
+- [Instructer](https://github.com/helomri/Instructer) 100% finished.
 
 # Specialties
-- Linux user (I use arch btw)
+- Linux (I use ~arch (previously)~ Fedora btw)
 - Basketball
