@@ -12,7 +12,7 @@ I can write code in about 15 languages, but I am mainly good at writing in those
 - Dart
 - Java/Kotlin
 - Python
-- HTML, CSS and JS/Node JS
+- HTML, CSS and JS/TS
 
 # Projects
 I made/contribued to some projects but here are the current state of my "real" repositories: (updated on the 30th of November 2024)
@@ -21,4 +21,4 @@ I made/contribued to some projects but here are the current state of my "real" r
 
 # Specialties
 - Linux (I use ~arch (previously)~ Fedora btw)
-- Basketball
+- Basketball (now my shoot's kinda bad because I got glasses and have to account for it now, but overall I'd say I'm not bad)
